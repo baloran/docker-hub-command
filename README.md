@@ -9,9 +9,14 @@
 
 ```bash
 git clone https://github.com/baloran/docker-hub-command
+
 cd docker-hub-command
+
 cp config/default.sample.json config/default.json
+
 vim config/default.json # edit the configuration
+
+npm i
 
 forever start app.js
 pm2 start app.js // or with pm2
