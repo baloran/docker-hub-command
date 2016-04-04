@@ -1,0 +1,18 @@
+{
+  "options": {
+    "slack": true // true if you want to push to slack
+  },
+
+  "commands": [
+    {
+      "exec": "docker run ubuntu /bin/echo 'Hello world'"
+    }
+  ],
+
+  // Slack connection
+  "slack": {
+    "token": "salut",
+    "name": "secret",
+    "channel": "developement"
+  }
+}

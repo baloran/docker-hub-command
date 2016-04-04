@@ -1,0 +1,32 @@
+{
+  "name": "docker-hub-automate",
+  "version": "1.0.0",
+  "description": "Automate when trigger docker hub webhook",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baloran/docker-hub-command.git"
+  },
+  "keywords": [
+    "docker",
+    "docker",
+    "hub",
+    "automate",
+    "command"
+  ],
+  "author": "Arnaud Allouis aka Baloran <contact@baloran.fr>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baloran/docker-hub-command/issues"
+  },
+  "homepage": "https://github.com/baloran/docker-hub-command#readme",
+  "dependencies": {
+    "config": "^1.19.0",
+    "connect": "^3.4.1",
+    "request": "^2.69.0",
+    "slackbots": "^0.5.1"
+  }
+}
