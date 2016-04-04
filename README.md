@@ -1,7 +1,7 @@
 [![Dependency Status](https://david-dm.org/baloran/docker-hub-command.svg?style=flat)](https://david-dm.org/baloran/docker-hub-command)
 [![devDependency Status](https://david-dm.org/baloran/docker-hub-command/dev-status.svg?style=flat)](https://david-dm.org/baloran/docker-hub-command#info=devDependencies)
 
-# Gulp Todo
+# Docker Hub Automate 
 
 > Trigger webhook docker easily, with swag.
 
